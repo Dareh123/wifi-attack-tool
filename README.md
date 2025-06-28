@@ -150,7 +150,7 @@ In Windows PowerShell, this tool provides insights and educational examples on c
 Follow me on Instagram or support my work by buying me a coffee!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dannyk_739)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/DannyK)
+
 
 ---
 
